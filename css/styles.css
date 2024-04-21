@@ -755,6 +755,10 @@ header {
   text-decoration: underline;
 }
 
+.modal-span {
+  display: inline-flex;
+}
+
 .modal-checkbox-label {
   color: #8e8f99;
   font-family: Roboto;
